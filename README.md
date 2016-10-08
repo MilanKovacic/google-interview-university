@@ -319,7 +319,7 @@ Write code on a whiteboard, not a computer. Test with some sample inputs. Then t
 
 - [ ] **How computers process a program:**
     - [X] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
-    - [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+    - [X] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
 - [ ] **How floating point numbers are stored:**
     - [ ] simple 8-bit: [Fractions in binary? (video)](http://math.stackexchange.com/questions/301435/fractions-in-binary)
