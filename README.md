@@ -329,9 +329,9 @@ Write code on a whiteboard, not a computer. Test with some sample inputs. Then t
 - [ ] **Computer Arch Intro:**
     (first video only - interesting but not required) [Introduction and Basics - Carnegie Mellon - Computer Architecture](https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq&index=1)
 
-- [ ] **Compilers**
+- [X] **Compilers**
     - [X] [C++ (video)](https://www.youtube.com/watch?v=twodd1KFfGk)
-    - [ ] [Understanding Compiler Optimization (C++) (video)](https://www.youtube.com/watch?v=FnGCDLhaxKU)
+    - [X] [Understanding Compiler Optimization (C++) (video)](https://www.youtube.com/watch?v=FnGCDLhaxKU)
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 - nothing to implement
